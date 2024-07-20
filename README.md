@@ -7,6 +7,9 @@ Clone the repository
 git clone https://github.com/PgNetwork01/discord-mod-bot.git
 cd discord-mod-bot
 ```
+
+Install the modules in requirements.txt
+
 ## .env
 Create an .env file and add this 
 ```
