@@ -1,0 +1,10 @@
+discord.py[voice]
+yt_dlp
+python-dotenv
+asyncio
+discord
+aiosqlite
+openai
+google-generativeai
+aiohttp
+sqlite3
